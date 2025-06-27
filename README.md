@@ -31,8 +31,10 @@ A fun and interactive Python terminal-based quiz game to test your general knowl
    - `False` or `F` for False
 6. Your score will be displayed at the end along with a custom message.
 
+---
 
-##🛠️ Future Improvements
- Add MCQ-based questions
- Categorize questions by topic
- Store high scores in a file or database
+## 🛠️ Future Improvements
+
+1. Add MCQ-based questions
+2. Categorize questions by topic
+3. Store high scores in a file or database
